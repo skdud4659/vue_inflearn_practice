@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,vue
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,visualstudiocode,vue
+# Created by https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,vue,vuejs
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,visualstudiocode,vue,vuejs
 
 ### macOS ###
 # General
@@ -64,4 +64,12 @@ docs/_book
 # TODO: where does this rule come from?
 test/
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,vue
+### Vuejs ###
+# Recommended template: Node.gitignore
+
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
+# End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,vue,vuejs

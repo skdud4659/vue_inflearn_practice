@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "제목1",
+      "contents": "내용1",
+      "createdAt": "2020-01-01"
+    },
+    {
+      "id": 2,
+      "title": "제목2",
+      "contents": "내용2",
+      "createdAt": "2020-01-02"
+    },
+    {
+      "id": 3,
+      "title": "제목3",
+      "contents": "내용3",
+      "createdAt": "2020-01-03"
+    }
+  ]
+}
